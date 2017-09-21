@@ -1,0 +1,4 @@
+tmp.log
+logfiles/
+uploads/*.jpg
+config.db
